@@ -29,4 +29,4 @@ zip: all
         );
 
 install: all
-	 cp -rp build/azan@faissal.bensefia.id ~/.local/share/gnome-shell/extensions
+	 cp -rp build/azan@ameeno.id ~/.local/share/gnome-shell/extensions
